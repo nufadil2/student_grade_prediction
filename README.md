@@ -1,1 +1,1 @@
-# Student Grade Prediction With Machine Learning Linar Regression
+# Student Grade Prediction With Machine Learning Linear Regression
